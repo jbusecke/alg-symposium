@@ -12,3 +12,5 @@ Organizing Committee:
 - Prof. Ryan Abernathey (LDEO)
 - Prof. Martin Visbeck (GEOMAR)
 - Prof. Janet Sprintall (SIO)
+
+Contact Email: rpa@ldeo.columbia.edu
