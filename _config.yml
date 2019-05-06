@@ -6,7 +6,7 @@
 name: Observing the Unknown
 
 # Short bio or description (displayed in the header)
-description: A Symposium cClebrating Arnold Gordon's Contributions to Physical Oceanography
+description: A Symposium Celebrating Arnold Gordon's Contributions to Physical Oceanography
 
 # LDEO Twitter Profile
 avatar: https://pbs.twimg.com/profile_images/472379566992789506/d4rGSBNU_400x400.jpeg
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: 
+  github:
   instagram: lamontearth
   linkedin:
   pinterest:
@@ -47,7 +47,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "/alg-symposium"
 
 #
 # !! You don't need to change any of the configuration flags below !!
