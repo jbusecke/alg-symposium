@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Observing the Unknown
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: A Symposium cClebrating Arnold Gordon's Contributions to Physical Oceanography
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+# LDEO Twitter Profile
+avatar: https://pbs.twimg.com/profile_images/472379566992789506/d4rGSBNU_400x400.jpeg
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: 
+  instagram: lamontearth
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: lamontearth
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
