@@ -6,7 +6,7 @@ permalink: /details/
 
 **Date**: Feb 13-14, 2020
 
-**Location**: [Lamont Doherty Earth Observatory](https://www.ldeo.columbia.edu/), Palisades, NY, USA
+**Location**: [Scripps Institution of Oceanography](git@github.com:rabernat/alg-symposium.git), Palisades, NY, USA
 
 Organizing Committee:
 - Prof. Ryan Abernathey (LDEO)
