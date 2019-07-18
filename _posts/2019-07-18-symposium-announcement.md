@@ -10,7 +10,7 @@ of his innumerable contributions to physical oceanography.
 
 **Date**: Feb 13-14, 2020
 
-**Location**: [Lamont Doherty Earth Observatory](https://www.ldeo.columbia.edu/), Palisades, NY, USA
+**Location**: [Scripps Institution of Oceanography](git@github.com:rabernat/alg-symposium.git), Palisades, NY, USA
 
 In the coming months we will use this site to share information regarding
 the scientific program and logistics. For now, we ask Arnold's colleagues
