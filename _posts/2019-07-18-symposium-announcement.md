@@ -4,7 +4,7 @@ title: Symposium Announcement and Dates
 author: Ryan Abernathey
 ---
 
-In February 2019, Arnold Gordon will turn 80!
+In February 2020, Arnold Gordon will turn 80!
 To mark this momentous occasion we are hosting a symposium in celebration
 of his innumerable contributions to physical oceanography.
 
