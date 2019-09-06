@@ -43,7 +43,7 @@ Speaker invitations are pending. Stay tuned for more detials...
 
 No-host dinner off-site at local restaurant.
 
-### Thursday, Feb. 13: Cold Day
+### Friday, Feb. 14: Cold Day
 
 | Time            | Event                        |
 |-----------------|------------------------------|
