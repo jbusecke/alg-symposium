@@ -15,7 +15,7 @@ permalink: /program/
 - Susan Wijffels - Woods Hole Oceanography Institution
 - Earle Wilson - Caltech
 
-More speaker invitations are pending. All participants are invited to propose to give an oral presentation, via the [application form](/application/)
+More speaker invitations are pending. All participants are invited to propose to give an oral presentation, via the [application form](/application/).
 
 ## Agenda
 

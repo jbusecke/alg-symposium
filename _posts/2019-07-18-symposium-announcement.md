@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Symposium Announcement and Dates
+title: Workshop Announcement and Dates
 author: Ryan Abernathey
 ---
 
 In February 2020, Arnold Gordon will turn 80!
-To mark this momentous occasion we are hosting a symposium in celebration
+To mark this momentous occasion we are hosting a workshop in celebration
 of his innumerable contributions to physical oceanography.
 
 **Date**: Feb 13-14, 2020
 
 **Location**: [Scripps Institution of Oceanography](git@github.com:rabernat/alg-symposium.git), La Jolla, CA, USA
 
-The symposium is timed to take place just before the
+The workshop is timed to take place just before the
 [2020 Ocean Sciences Meeting](https://www2.agu.org/ocean-sciences-meeting/),
 in order to minimize participant travel and the associated carbon footprint.
 
