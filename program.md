@@ -47,7 +47,7 @@ Chairs: Loic Houpert, Lauren Mosley, Laura Cimoli
 
 - 0830 - 0900: [Lynne Talley](https://ltalley.scrippsprofiles.ucsd.edu/) - _TBD_
 - 0900 - 0920: [D. Gwyn Evans](https://dgwynevans.com/) - _The cold transit of Southern Ocean upwelling_
-- 0920 - 0950: [Mike Meredith](https://www.bas.ac.uk/profile/mmm/) - _TBD_
+- 0920 - 0950: [Mike Meredith](https://www.bas.ac.uk/profile/mmm/) - _Dense water outflow from the Weddell Sea: how it is changing and why it matters_
 - 0950 - 1030: Coffee
 - 1030 - 1100: [Earle Wilson](https://earlew.com/) - _TBD_
 - 1100 - 1120: [Andy Thompson](http://web.gps.caltech.edu/~andrewt/) - _Inter-sea exchange at the Antarctic margins_
@@ -63,7 +63,7 @@ Chairs: Andy Stewart, Una Miller
 
 - 1330 - 1400: [Sarah Purkey](https://spurkey.scrippsprofiles.ucsd.edu/) - _TBD_
 - 1400 - 1420: Alessandro Silvano - _Past, present and future of Antarctic Bottom Water formation_
-- 1420 - 1440: Paige Levin - _Tracing Abyssal Flow Pathways in a New Global Bottom Water Climatology_
+- 1420 - 1440: Paige Lavin - _Tracing Abyssal Flow Pathways in a New Global Bottom Water Climatology_
 - 1440 - 1500: [Ali Mashayek](https://www.mashayek.com/) - _Southern Ocean Pathways of Deep Ocean Ventilation_
 - 1500 - 1530: Coffee
 - 1530 - 1600: Joey Comiso - _TBD_
