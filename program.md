@@ -46,7 +46,7 @@ Dinner off-site at local restaurant (1800).
 Chairs: Loic Houpert, Lauren Mosley, Laura Cimoli
 
 - 0830 - 0900: [Lynne Talley](https://ltalley.scrippsprofiles.ucsd.edu/) - _TBD_
-- 0900 - 0920: [D. Gwynn Evans](https://dgwynevans.com/) - _The cold transit of Southern Ocean upwelling_
+- 0900 - 0920: [D. Gwyn Evans](https://dgwynevans.com/) - _The cold transit of Southern Ocean upwelling_
 - 0920 - 0950: [Mike Meredith](https://www.bas.ac.uk/profile/mmm/) - _TBD_
 - 0950 - 1030: Coffee
 - 1030 - 1100: [Earle Wilson](https://earlew.com/) - _TBD_
