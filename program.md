@@ -49,7 +49,7 @@ Chairs: Loic Houpert, Lauren Mosley, Laura Cimoli
 - 0900 - 0920: [D. Gwyn Evans](https://dgwynevans.com/) - _The cold transit of Southern Ocean upwelling_
 - 0920 - 0950: [Mike Meredith](https://www.bas.ac.uk/profile/mmm/) - _Dense water outflow from the Weddell Sea: how it is changing and why it matters_
 - 0950 - 1030: Coffee
-- 1030 - 1100: [Earle Wilson](https://earlew.com/) - _TBD_
+- 1030 - 1100: [Earle Wilson](https://earlew.com/) - _Drivers of recent sea ice and upper ocean variability in the Southern Ocean_
 - 1100 - 1120: [Andy Thompson](http://web.gps.caltech.edu/~andrewt/) - _Inter-sea exchange at the Antarctic margins_
 - 1120 - 1140: [Marina do Valle Chagas Azaneu](https://www.researchgate.net/profile/Marina_Azaneu) - _Variability of the Antarctic slope current system in the northwestern Weddell Sea_
 - 1140 - 1200: [Torge Martin](https://sites.google.com/site/torgemartin/) - _Southern Ocean deep convection in climate simulations: Turning a blind eye does not help_
