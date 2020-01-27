@@ -30,8 +30,8 @@ Lunch break: 1230 - 1330.
 Chairs: Julius Busecki, Alice Marzocchi, Shanice Bailey
 
 - 1330 - 1400: [Arne Biastoch](https://www.geomar.de/en/staff/fb1/od/abiastoch/) - _The brawniest retroflection_
-- 1400 - 1420: Viviene Menezes - _TBD_
-- 1420 - 1440: Kay McMonigal - _TBD_
+- 1400 - 1420: Viviane Menezes - _TBD_
+- 1420 - 1440: Kay McMonigal - _Variability in Agulhas Current temperature and freshwater transports, with implications for Agulhas Leakage fluxes_
 - 1440 - 1515: Coffee
 - 1515 - 1630: Warm Day Discussion and wrap up
 
@@ -39,7 +39,7 @@ Dinner off-site at local restaurant (1800).
 
 ## Friday, Feb. 14: Cold Day
 
-- 0830 - 0900: Morning coffee and setup
+- 0800 - 0830: Morning coffee and setup
 
 ### Session III
 
@@ -66,5 +66,5 @@ Chairs: Andy Stewart, Una Miller
 - 1420 - 1440: Paige Lavin - _Tracing Abyssal Flow Pathways in a New Global Bottom Water Climatology_
 - 1440 - 1500: [Ali Mashayek](https://www.mashayek.com/) - _Southern Ocean Pathways of Deep Ocean Ventilation_
 - 1500 - 1530: Coffee
-- 1530 - 1600: Joey Comiso - _TBD_
+- 1530 - 1600: Joey Comiso - _Anomalies and Trends in the Polar Oceans as Observed from Space_
 - 1600 - 1700: Discussion and Conference Wrap-up
