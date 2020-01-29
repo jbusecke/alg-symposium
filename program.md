@@ -27,7 +27,7 @@ Lunch break: 1230 - 1330.
 
 ### Session II
 
-Chairs: Julius Busecki, Alice Marzocchi, Shanice Bailey
+Chairs: Julius Busecke, Alice Marzocchi, Shanice Bailey
 
 - 1330 - 1400: [Arne Biastoch](https://www.geomar.de/en/staff/fb1/od/abiastoch/) - _The brawniest retroflection_
 - 1400 - 1420: Viviane Menezes - _TBD_
